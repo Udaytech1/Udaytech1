@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <p>
-  <img src="https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg" height=300px width=100% />
+  <img src="https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg" height=400 width=100% />
 </p>
 <h2 align="center">
 I'm an Android developer💻!
@@ -52,5 +52,6 @@ Java, Kotlin, Firebase, Android
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  </p>
 
 ## Most Used Language 
-<!--
-**udaytech1/udaytech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style='border=1px' height=100px width=400px>
+ <h3>Kotlin</h3>
+ </div>
