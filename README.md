@@ -44,8 +44,4 @@ skill also want to improve skill for making best quality Application..
 
 Java, Kotlin, Firebase, Android
 
-## 📈 GitHub Stats 
-
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+## Most Used Language 
