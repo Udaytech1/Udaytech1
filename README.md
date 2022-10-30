@@ -33,8 +33,8 @@ skill also want to improve skill for making best quality Application..
 
 ## 🔭 I'm currently working on
 
-- Android Kotliin 
-- Coroutine, Livedata, Flow, Channel
+- Restaurant POS Application 
+- Event Booking Application
 
 ## 🌱 I'm currently learning
 
