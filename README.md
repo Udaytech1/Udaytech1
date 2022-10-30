@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-  <body>
-<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-                                                                                                               </body>
-                                                                                                               </html>
                                                                                                               
 ![1a7e34bf-0c25-4ea3-a265-2ece5aeb10cd](https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg)
+
+<html>
+  <body>
+                                                                                                               </body>
+                                                                                                               </html>
