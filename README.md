@@ -17,6 +17,10 @@ Here are some ideas to get you started:
                                                                                                               
 ![1a7e34bf-0c25-4ea3-a265-2ece5aeb10cd](https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg)
 
+(https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
+
 <html>
   <body>
     <img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
