@@ -52,6 +52,8 @@ Java, Kotlin, Firebase, Android
  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  </p>
 
 ## Most Used Language 
-<div style='border=1px' height=100px width=400px>
- <h3>Kotlin</h3>
+<div style='border=1px;background:red' height=100px width=400px>
+ <center>
+ <h5>Kotlin</h5>
+ </center>
  </div>
