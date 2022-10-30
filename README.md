@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                                                                              
-![1a7e34bf-0c25-4ea3-a265-2ece5aeb10cd](https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg)
-
+ <p>
+  <img src="https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg" height=300px />
+</p>
 <h2 align="center">
 I'm an Android 💻!
 </h2> 
