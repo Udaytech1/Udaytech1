@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg" height=300px width=100% />
 </p>
 <h2 align="center">
-I'm an Android 💻!
+I'm an Android developer💻!
 </h2> 
 I am an Android developer. I want to use my full android development
 skill also want to improve skill for making best quality Application..
@@ -42,9 +42,7 @@ skill also want to improve skill for making best quality Application..
 
 ## 💼 Technical Skills
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
+Java, Kotlin, Firebase, Android
 
 ## 📈 GitHub Stats 
 
