@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android App Development.
-- 🌱 I’m currently learning Android Jetpack Compose.
+- 🌱 I’m currently learning Hybrid App Development Technology.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg" height=400 width=100% />
 </p>
 <h2 align="center">
-I'm an Android developer💻!
+I'm a Mobile application developer💻!
 </h2> 
-I am an Android developer. I want to use my full Android development
+I am a Mobile app developer. I want to use my full Mobile app development
 the skill also wants to improve skill for making the best quality Application.
 
 ### 🤝 Connect with me:
@@ -33,12 +33,12 @@ the skill also wants to improve skill for making the best quality Application.
 
 ## 🔭 I'm currently working on
 
-- Restaurant POS Application 
-- Event Booking Application
+- Olx type application 
+- Fitness Application
 
 ## 🌱 I'm currently learning
 
-- Android Jetpack compose
+- React native
 
 ## 💼 Technical Skills
 
