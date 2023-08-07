@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 <h2 align="center">
 I'm an Android developer💻!
 </h2> 
-I am an Android developer. I want to use my full android development
-skill also want to improve skill for making best quality Application..
+I am an Android developer. I want to use my full Android development
+the skill also wants to improve skill for making the best quality Application.
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/uday-raj-verma-51ab19209/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/urajpatel111"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://instagram.com/urajp111"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <a href="https://udaydeveloper.c1.biz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
