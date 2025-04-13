@@ -1,59 +1,97 @@
-### Hi there 👋 I'm Uday Raj
+# Hi there 👋 I'm Uday Raj Verma
+## React Native/Android Developer (4+ years experience)
 
-<!--
-**Udaytech1/Udaytech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Android App Development.
-- 🌱 I’m currently learning Hybrid App Development Technology.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <p>
-  <img src="https://user-images.githubusercontent.com/80650275/198870418-d38f795f-6c21-4159-a434-4bcc156ce426.jpg" height=400 width=100% />
-</p>
-<h2 align="center">
-I'm a Mobile application developer💻!
+<h2>
+Mobile Application Developer 💻 | App Store & Play Store Published Developer
 </h2> 
-I am a Mobile app developer. I want to use my full Mobile app development
-the skill also wants to improve skill for making the best quality Application.
+
+I'm a passionate mobile developer with 4+ years of experience who has contributed to developing over 15 applications. I possess in-depth knowledge of the entire app development lifecycle—from design and development to deployment on the Play Store and App Store.
+
+📧 **Email:** urajpatel12@gmail.com  
+📍 **Location:** Lucknow, U.P., India  
 
 ### 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-uday--raj--verma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/uday-raj-verma-51ab19209/)
+[![GitHub](https://img.shields.io/badge/GitHub-Udaytech1-181717?style=for-the-badge&logo=github)](https://github.com/Udaytech1)
+[![Instagram](https://img.shields.io/badge/Instagram-urajp111-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/urajp111)
+[![Portfolio](https://img.shields.io/badge/Portfolio-udaydeveloper-c1.biz-FF5722?style=for-the-badge)](https://udaydeveloper.c1.biz/)
 
-<a href="https://www.linkedin.com/in/uday-raj-verma-51ab19209/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/urajp111"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://udaydeveloper.c1.biz/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
+- 💬 Ask me about Android, React Native, or mobile development in general!
 
 ## 🔭 I'm currently working on
+- [FindQo App](https://play.google.com/store/apps/details?id=com.findqo.app) (Irish rental platform)
+- [SEEYOU GPT](https://github.com/Udaytech1) (AI Platform)
 
-- Olx type application 
-- Fitness Application
+## 🌱 I'm also aware of:
+- Advanced React Native concepts
+- Jetpack Compose
+- Performance optimization techniques
 
-## 🌱 I'm currently learning
+## 🛠️ Tech Stack
 
-- React native
+### Languages:
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 💼 Technical Skills
+### Mobile Development:
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
 
-Java, Kotlin, Firebase, Android
+### Databases & Storage:
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Room DB](https://img.shields.io/badge/Room_DB-4479A1?style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>  </p>
+### Tools:
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Most Used Language 
-<div style='border=1px;background:red' height=100px width=400px>
- <center>
- <h5>Kotlin</h5>
- </center>
- </div>
+## 💼 Professional Experience
+
+**React Native Developer** @ [Tribyss App Solutions Private Limited](https://tribyss.com)  
+📅 March 2023 - Present | 📍 Lucknow, India  
+
+**Android Developer** @ Skyview Smart Solution  
+📅 March 2021 - February 2023 | 📍 Lucknow, India  
+
+## 🏆 Featured Projects
+
+### FindQo App - Irish Rental Platform
+A dynamic platform for property sales and rentals  
+🔗 [Android](https://play.google.com/store/apps/details?id=com.findqo.app) | [iOS](https://apps.apple.com/in/app/findqo-irish-property-rental/id6449600854)  
+✅ Handled everything from design to deployment  
+
+### SEEYOU GPT - AI Platform
+AI platform with advanced natural language processing  
+✅ Implemented ChatGPT-like features from scratch  
+
+### Daem Pos Application
+POS system for retail shops with order management  
+✅ Managed entire project lifecycle  
+
+### Vijay Grocery
+E-commerce app for grocery shopping  
+✅ Implemented real-time inventory management  
+
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Udaytech1&show_icons=true&theme=radical)](https://github.com/Udaytech1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaytech1&layout=compact&theme=radical)](https://github.com/Udaytech1)
+
+## 📚 Education
+**B.Tech in Computer Science and Engineering**  
+Babu Sunder Singh Institute Of Technology And Management  
+📍 Lucknow, India  
+
+**Diploma in Computer Science**  
+Govt. Polytechnic Premdhar Patti Pratapgarh  
+
+## 🎯 Interests
+🎬 Watching movies | 🎵 Listening to music | 📱 Exploring new mobile technologies
+
+⭐ From [Udaytech1](https://github.com/Udaytech1)
