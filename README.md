@@ -53,7 +53,7 @@ I'm a passionate mobile developer with 4+ years of experience who has contribute
 
 ## 💼 Professional Experience
 
-**React Native Developer** @ [Tribyss App Solutions Private Limited](https://tribyss.com)  
+**React Native Developer** @ [The Coding Company](https://codingcompany.in)  
 📅 March 2023 - Present | 📍 Lucknow, India  
 
 **Android Developer** @ Skyview Smart Solution  
